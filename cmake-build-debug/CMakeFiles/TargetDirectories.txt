@@ -1,0 +1,3 @@
+D:/clion/Pikachu-Main-Menu/cmake-build-debug/CMakeFiles/Pikachu_Main_Menu.dir
+D:/clion/Pikachu-Main-Menu/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion/Pikachu-Main-Menu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
